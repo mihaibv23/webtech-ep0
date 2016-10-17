@@ -1,0 +1,2 @@
+<?PHP
+    VAR_DUMP($_POST);
